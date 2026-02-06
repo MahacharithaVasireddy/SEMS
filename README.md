@@ -1,0 +1,1 @@
+SEMS (Smart Energy Management System) is a web-based project designed to monitor, analyze, and manage energy consumption efficiently. It helps users understand power usage patterns, reduce energy wastage, and promote sustainable energy practices through simple visualization and smart insights.
